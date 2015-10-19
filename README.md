@@ -1,7 +1,7 @@
 HexColorHelper
 ==============
 
-Helper to pass back color based on HEX value
+Helper to return back color based on HEX value and alpha value
 
 
 ## Usage
