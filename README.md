@@ -1,7 +1,7 @@
 HexColorHelper
 ==============
 
-Helper to return back color based on HEX value and alpha value
+a swift helper to return back color based on HEX value and alpha value
 
 
 ## Usage
