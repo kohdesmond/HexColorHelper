@@ -1,9 +1,7 @@
 //
 //  ColorHelper.swift
-//  Tasker
 //
 //  Created by Desmond Koh on 25/09/2015.
-//  Copyright © 2015 SMU. All rights reserved.
 //
 
 import UIKit
